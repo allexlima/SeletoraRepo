@@ -2,7 +2,7 @@
 
 ## Bem vindo ao repostório do projeto 'Seletora'
 
-Aqui econtram-se os códigos utilizados no controle de uma esteira seletora de peças automáticas (idem Figura), além do projeto interface IHM para controle da máquina.
+Aqui econtram-se os códigos utilizados para o controle de uma esteira seletora de peças automáticas (idem Figura), além de um projeto de interface IHM para controle da máquina.
 
 ![](https://github.com/allexlima/SeletoraRepo/blob/master/imgs/m00.png?raw=true)
 
