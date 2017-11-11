@@ -9,13 +9,15 @@ Aqui econtram-se os códigos utilizados para o controle de uma esteira seletora 
 ### Softwares necessários
 _Infelizmente o suporte é exclusivo para Microsoft Windows OS_
 
-- [ISIS XG-5000](http://www.lsis.com/support/download/detail.aspx?c=3386)
-- [ISIS XB-Builder](http://www.lsis.com/support/download/detail.aspx?c=3190)
+- [LSIS XG-5000](http://www.lsis.com/support/download/detail.aspx?c=3386)
+- [LSIS XP-Builder](http://www.lsis.com/support/download/detail.aspx?c=3190)
 
 ### Equipamentos utilizados
-- [PLC ISIS XGB XBC-H](https://www.google.com.br/search?rlz=1C1CHBD_enBR769BR769&biw=1366&bih=672&tbm=isch&sa=1&ei=YDb_WbeOHoLHwATw7IOYCQ&q=XGB+XBC-H&oq=XGB+XBC-H&gs_l=psy-ab.3...58477.69304.0.70402.3.3.0.0.0.0.313.605.0j2j0j1.3.0....0...1.1.64.psy-ab..0.0.0....0.7dTG6bcLjNE#imgrc=SP8L3EdDCXQMFM:)
-- [IHM ISIS XP-Series XP50-TTA](https://www.google.com.br/search?rlz=1C1CHBD_enBR769BR769&biw=1366&bih=672&tbm=isch&sa=1&ei=qDb_WbbSEYSZwgTu6YqoAQ&q=IHM+XP-Series+XP50-TTA&oq=IHM+XP-Series+XP50-TTA&gs_l=psy-ab.3...223989.238436.0.238690.24.23.1.0.0.0.239.2288.0j13j1.14.0....0...1.1.64.psy-ab..9.3.521...0.0.SJeOwFd7LIQ#imgrc=CH-KBqbdV-xySM:)
+- [PLC LISIS XGB XBC-DR32H](http://www.tecnolog.ind.br/clp-controladores-log-programaveis/437-clp-xgb-xbc-xbm-xec-ls-industrial-systems-lg.html)
+- [IHM LISIS XP-Series XP50-TTA](https://www.google.com.br/search?rlz=1C1CHBD_enBR769BR769&biw=1366&bih=672&tbm=isch&sa=1&ei=qDb_WbbSEYSZwgTu6YqoAQ&q=IHM+XP-Series+XP50-TTA&oq=IHM+XP-Series+XP50-TTA&gs_l=psy-ab.3...223989.238436.0.238690.24.23.1.0.0.0.239.2288.0j13j1.14.0....0...1.1.64.psy-ab..9.3.521...0.0.SJeOwFd7LIQ#imgrc=CH-KBqbdV-xySM:)
 
-Este projeto foi confeccionado pelo Prof. Anderson Gadelha, ministrante da disciplina de Automação Industrial da turma de Engenharia da Computação 2017/02 (CMN08S1)
+Obs: Você pode encontrar toda a documentação dos equipamentos e tutoriais em [http://lsbrasil.com.br](http://lsbrasil.com.br)
+
+Este projeto foi confeccionado pelo Prof. Anderson Gadelha, ministrante da disciplina de Automação Industrial da turma de Engenharia da Computação 2017/02 (CMN08S1), na UniNorte Laureate.
 
 Equipe: Allex Lima, Daniel Bispo, Kamila Nogueira, Klemerson Silva, Lincoln Caimo, Nildiane Marinho, Paulo I. Moraes, Filipe Figueira, Rafael Monteiro, Renan Barroncas, Rodrigo Selistre e Victor Guedes.  
