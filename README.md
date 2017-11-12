@@ -18,6 +18,6 @@ _Infelizmente o suporte é exclusivo para Microsoft Windows OS_
 
 Obs: Você pode encontrar toda a documentação dos equipamentos e tutoriais em [http://lsbrasil.com.br](http://lsbrasil.com.br)
 
-Este projeto foi confeccionado pelo Prof. Anderson Gadelha, ministrante da disciplina de Automação Industrial da turma de Engenharia da Computação 2017/02 (CMN08S1), na UniNorte Laureate.
-
-Equipe: Allex Lima, Daniel Bispo, Kamila Nogueira, Klemerson Silva, Lincoln Caimo, Nildiane Marinho, Paulo I. Moraes, Filipe Figueira, Rafael Monteiro, Renan Barroncas, Rodrigo Selistre e Victor Guedes.  
+Este projeto fez parte da __IV Amostra de Automação na Prática__, idealizada pelo [Prof. Anderson Gadelha Fontoura](https://github.com/hyperiondeimos), professor da disciplina de Automação Industrial da turma de Engenharia da Computação 2017/2 (CMN08S1), na UniNorte Laureate.
+ 
+Projeto construído pela Equipe: Allex Lima, Daniel Bispo, Kamila Nogueira, Klemerson Silva, Lincoln Caimo, Nildiane Marinho, Paulo I. Moraes, Filipe Figueira, Rafael Monteiro, Renan Barroncas, Rodrigo Selistre e Victor Guedes.
